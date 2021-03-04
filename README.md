@@ -1,3 +1,6 @@
-# Prediction of the ICU mortality based on the missing events.
+# Prediction of intensive care unit mortality based on missing events.
 
-You can reproduce the Figures and Tables shown in "Prediction of the ICU mortality based on the missing events." by running the jupyter notebooks.
+Shoji, T.*, Yonekura, H*., Sato, Y., Kawasaki, Y. (2021) Prediction of intensive care unit mortality based on missing events. (*contributed equally) medRxiv
+https://www.medrxiv.org/content/10.1101/2021.02.28.21252249v1
+
+You can reproduce the Figures and Tables shown in "Prediction of intensive care unit mortality based on missing events." by running the jupyter notebooks.
